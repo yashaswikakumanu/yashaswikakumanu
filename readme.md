@@ -1,5 +1,7 @@
 Hi, I'm Yashaswi 👋
+
 I'm a Machine Learning Engineer 
+
 I'm best reached via email. I'm always open to interesting conversations and collaboration.
 
 <img align="center" height="200px" alt="Yashaswi's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaswikakumanu&theme=calm&hide_border=true">
