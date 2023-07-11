@@ -19,6 +19,6 @@ If you're up for some mind-blowing discussions or exciting projects, I'm all ear
 
 <img align="left" height="300px" alt="Yashaswi's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaswikakumanu&theme=calm&hide_border=true">
 
-<img align="right" height="300px" alt="Yashaswi's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=yashaswikakumanu">
+<img align="center" height="300px" alt="Yashaswi's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=yashaswikakumanu">
 
-<img align="center" height="100px" alt="Yashaswi's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswikakumanu&theme=calm&layout=compact&hide_border=true&hide=scss,vue,html&langs_count=8"> 
+<img align="left" height="100px" alt="Yashaswi's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswikakumanu&theme=calm&layout=compact&hide_border=true&hide=scss,vue,html&langs_count=8"> 
