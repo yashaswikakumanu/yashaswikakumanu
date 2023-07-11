@@ -3,10 +3,13 @@
   Hola, I'm Yashaswi 👋
 
 I'm all about Machine Learning Engineer life
+</h1>
+
+<h2 align="center">
 
 If you're up for some mind-blowing discussions or exciting projects, I'm all ears! 
 
-</h1>
+</h2>
 
 - I'm a regular contributor to the rad platform medium, please catch my articles at https://medium.com/@yashaswi.kakumanu
 
