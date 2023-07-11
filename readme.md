@@ -13,7 +13,7 @@ If you're up for some mind-blowing discussions or exciting projects, I'm all ear
 
 - I'm a regular contributor to the rad platform medium, please catch my articles at https://medium.com/@yashaswi.kakumanu
 
-- Guess what? I just dropped an epic Ebook on Amazon Kindle, if you would like to catch up on goodness for Python basics please go and hit  https://a.co/d/8f6o3cc
+- Guess what? I just dropped an epic Ebook on Amazon Kindle, if you would like to catch up on goodness of Python basics please go and hit  https://a.co/d/8f6o3cc
 
 - If you wanna chat or know more about my experiences. Hit me up at  **yashaswi.kakumanu@gmail.com**.
 
