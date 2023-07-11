@@ -16,13 +16,6 @@ If you're up for some mind-blowing discussions or exciting projects, I'm all ear
 
 - Curious about my journey so far? peep my <a href="https://github.com/yashaswikakumanu/yashaswikakumanu/blob/main/YASHASWI_RESUME.pdf" target="blank">resume</a>
 
-
-<img align="left" height="100px" alt="Yashaswi's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaswikakumanu&theme=calm&hide_border=true">
-
-<img align="center" height="300px" alt="Yashaswi's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=yashaswikakumanu">
-
-<img align="right" height="100px" alt="Yashaswi's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswikakumanu&theme=calm&layout=compact&hide_border=true&hide=scss,vue,html&langs_count=8"> 
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
