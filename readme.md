@@ -21,4 +21,6 @@ If you're up for some mind-blowing discussions or exciting projects, I'm all ear
 
 <img align="center" height="300px" alt="Yashaswi's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=yashaswikakumanu">
 
+<img align="right" height="100px" alt="Yashaswi's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswikakumanu"> 
+
 <img align="right" height="100px" alt="Yashaswi's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswikakumanu&theme=calm&layout=compact&hide_border=true&hide=scss,vue,html&langs_count=8"> 
