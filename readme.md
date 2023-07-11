@@ -7,11 +7,15 @@ Passionate Machine Learning Engineer
 
 I'm always open to interesting conversations and collaboration.
 
-
 </h1>
--I regularly write articles on medium (https://medium.com/@yashaswi.kakumanu)
+
+- I regularly write articles on medium (https://medium.com/@yashaswi.kakumanu)
+
+- Recently published Ebook at Amazon kindle (https://a.co/d/8f6o3cc)
+
 - Reach me at **yashaswi.kakumanu@gmail.com**.
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+
+- Would like to know my experiences ? <a href="https://github.com/yashaswikakumanu/yashaswikakumanu/blob/main/YASHASWI_RESUME.pdf" target="blank">Resume</a>
 
 
 <img align="center" height="200px" alt="Yashaswi's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaswikakumanu&theme=calm&hide_border=true">
