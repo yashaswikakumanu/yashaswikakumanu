@@ -17,7 +17,7 @@ If you're up for some mind-blowing discussions or exciting projects, I'm all ear
 
 - If you wanna chat or know more about my experiences. Hit me up at  **yashaswi.kakumanu@gmail.com**.
 
-- Curious about my journey so far? Peep my <a href="https://github.com/yashaswikakumanu/yashaswikakumanu/blob/main/YASHASWI_RESUME.pdf" target="blank">resume</a>
+- Curious about my journey so far? Peep my <a href="https://github.com/yashaswikakumanu/yashaswikakumanu/blob/main/yashaswi_resume.pdf" target="blank">resume</a>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
