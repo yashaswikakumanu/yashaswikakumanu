@@ -26,7 +26,7 @@ If you're up for some mind-blowing discussions or exciting projects, I'm all ear
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yashaswikakumanu&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashaswikakumanu&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaswikakumanu&theme=dark&hide_border=false" /> 
 </td>
